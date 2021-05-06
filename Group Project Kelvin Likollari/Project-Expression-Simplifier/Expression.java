@@ -4,7 +4,7 @@
  * @author (Kelvin Likollari)
  * @version (05.05.2021)
  */
-public class Expression extends Node
+public abstract class Expression extends Node
 {
    
     /**
