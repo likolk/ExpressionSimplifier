@@ -2,8 +2,10 @@
 /**
  * Write a description of class Νοδε here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Kelvin Likollari)
+ * @version (05.05.2021)
  */
 public class Node
 {
+    //
+}
